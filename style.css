@@ -1,8 +1,10 @@
 #balls {
     border-radius: 5px;
     border: solid black;
-    width: 35vw;
-    height: 16vw;
+    width: 15em;
+    height: 11em;
+    cursor: pointer;
+    background-color: slategray;
 }
 
 #title {
@@ -18,4 +20,8 @@
     text-decoration: none;
     color: red;
     font-family: sans-serif;
+}
+
+body {
+    background-color: #456;
 }
