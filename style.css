@@ -1,0 +1,21 @@
+#balls {
+    border-radius: 5px;
+    border: solid black;
+    width: 35vw;
+    height: 16vw;
+}
+
+#title {
+    font-family: sans-serif;
+    font-size: medium;
+}
+
+#deskjob {
+    font-family: sans-serif;
+}
+
+#link {
+    text-decoration: none;
+    color: red;
+    font-family: sans-serif;
+}
